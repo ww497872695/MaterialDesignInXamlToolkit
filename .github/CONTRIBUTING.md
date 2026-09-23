@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-PRs to this project are welcome, but before contributing please bear in mind my thoughts below. Whe possible please include unit tests. If you want to get involved but are unsure, please ask (say hello in the [Gitter chat room](http://gitter.im/ButchersBoy/MaterialDesignInXamlToolkit)).  Also note that I wrote these guidelines several months after the library was first made available, with the benefit of hindsight.  Apologies if there are inconsistencies with what you read below and what's already in the library.
+PRs to this project are welcome, but before contributing please bear in mind my thoughts below. Where possible, please include unit tests. If you want to get involved but are unsure, please ask (say hello in the [Gitter chat room](http://gitter.im/ButchersBoy/MaterialDesignInXamlToolkit)).  Also note that I wrote these guidelines several months after the library was first made available, with the benefit of hindsight.  Apologies if there are inconsistencies with what you read below and what's already in the library.
 
 ## The purposes of this library:
 
@@ -19,10 +19,6 @@ The API is king. If adding anything to the public interface of this library (con
 ## UWP:
 
 This whole project is a personal hobby, and this is even more true of the UWP section.  I'm not accepting any PRs to UWP as I will be coding on this in my spare time, and using it as a way to learn and explore UWP for my own enlightenment.  If and when the UWP solution becomes more mature I will relax this stance.
-
-## TabControl:
-
-There is no TabControl style, I won't create one, and I wont accept one.  I have Dragablz and don't want the added burden of supporting two styles; even if it is fully complete.  I don't want the duplication and the overhead.  
 
 ## Submitting a PR:
 
